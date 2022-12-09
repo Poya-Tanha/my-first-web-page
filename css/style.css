@@ -1,0 +1,48 @@
+
+body{
+  color: black;
+  margin: 0;
+  background-color: #f5f2e1db;
+  font-family: serif;
+}
+h1{
+  color: green;
+  text-align: center;
+}
+
+h2{
+  color: red;
+}
+
+hr{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 6px;
+  border-style: dotted;
+  width: 50px;
+  height: 6px;
+  color: red;
+}
+
+.bio{
+  font-size: 20px;
+}
+
+.contact-table{
+  position: relative;
+  left: 400px;
+}
+
+.contact-page{
+  margin-top: 80px;
+}
+
+.user-idea{
+  position: relative;
+  left: 400px;
+}
+
+.head-table-contact{
+  text-align: center;
+}
